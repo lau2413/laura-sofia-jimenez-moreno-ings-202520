@@ -1,1 +1,1 @@
-# laura-sofia-jimenez-moreno-ings-202520
+# Clase de git
